@@ -73,6 +73,7 @@ def stream_row(input_file_name, address_tuple):
         # Set our socket type to UDP (datagram)
         ADDRESS_FAMILY = socket.AF_INET 
         SOCKET_TYPE = socket.SOCK_DGRAM 
+        
 
         # Call the socket constructor, socket.socket()
         # A constructor is a special method with the same name as the class
