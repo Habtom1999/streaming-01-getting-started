@@ -81,7 +81,6 @@ def process_rows(input_file_name, output_file_name):
                 # Write the transformed data to the output file
                 writer.writerow([Year, Month, Day, Time, TempK])
 
-
 # ---------------------------------------------------------------------------
 # If this is the script we are running, then call some functions and execute code!
 # ---------------------------------------------------------------------------
