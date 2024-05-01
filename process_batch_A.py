@@ -13,7 +13,6 @@ Use logging, very helpful when working with batch and streaming processes.
 """
 
 # Import from Python Standard Library
-
 import csv
 import logging
 
