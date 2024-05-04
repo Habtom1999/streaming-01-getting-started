@@ -1,6 +1,6 @@
 # streaming-01-getting-started
 
-> Get started with Python for streaming analytics
+Get started with Python for streaming analytics
 
 We assume no prior programming experience and that you want to 
 get productive as quickly as possible.
@@ -20,12 +20,6 @@ You should have these downloaded and installed on your machine:
 1. VS Code Extension: Python
 1. Git (configured with user.name and user.email - the same email you use for GitHub)
 
-Remember:
-
-- **Spacing, Spelling, Capitalization**: When programming, these are critical. Always double-check!
-
----
-
 ## Open Project Folder in VS Code
 
 In VS Code, open just your project repository folder, e.g. Documents/streaming-01-getting-started.
@@ -34,7 +28,6 @@ In VS Code, open just your project repository folder, e.g. Documents/streaming-0
 
 In VS Code, open a terminal window (View / Terminal) and verify your software is installed and configured.
 
-- If Mac/Linux, the default terminal should work.
 - If Windows, be sure you're using a PowerShell terminal (rather than cmd).
 
 Important: 
@@ -99,6 +92,12 @@ You'll have generated several new data files.
 The streaming process will run continuously for quite a while. 
 Read the comments in the file to learn how to stop the process.
 
+## Excute Pyhton Scripts 
+Click on the util_about_py file to open for editing
+Click the run button and watch what is going on the terminal. 
+
+
+
 Important: 
 
 - If Mac/Linux, change `python` to `python3` in the commands below.
@@ -121,7 +120,7 @@ python process_batch_C.py
 python process_streaming_0.py
 ```
 
-✔️ Make sure your scripts complete successfully. 
+Make sure your scripts complete successfully. 
 If not, post screenshots and the text of any error messages in the discussion.
 ---
 
@@ -131,6 +130,7 @@ Edit this README.md file. It uses Markdown, a simple and easy markup language.
 
 - Keep the prerequisites and task headings. 
 - Within the task headings, record only the commands that worked on YOUR machine. 
+
 - Remove unnecessary instructions once you've mastered them.
 - Add any additional notes that will help you in the future.
 
